@@ -2,7 +2,7 @@
 
 Coursework and projects completed in **GCI World 2026** (University of Tokyo): Python for data analysis, a machine learning competition, and graded homework.
 
-🎓 **Certificate:** [add link to your certificate or verification page]
+
 
 > 🇪🇸 Versión en español más abajo.
 
